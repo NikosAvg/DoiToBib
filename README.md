@@ -1,5 +1,5 @@
 # doi2bib
-A script to extract bibliography reference from a doi or a pdf file
+A script to add formated bibliography references to your bibliography  from a doi or a pdf file
 
 
 # Requirements
